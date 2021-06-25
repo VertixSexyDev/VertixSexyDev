@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Discord
 - 🤔 I’m looking for help with Go
 - 💬 Ask me about Python⚡
-- 📫 How to reach me: Discord !Vertixx#4947
+- 📫 How to reach me: Discord **!Vertixx#4947**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im 14
 -->
