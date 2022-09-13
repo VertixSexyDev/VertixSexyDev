@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vertixx</h1>
 <h3 align="center">Im a Simple Gamer/Dev</h3>
 
-- 🔭 I’m currently working on **Lightning**
+- 🔭 I’m currently working on **Random Stuff**
 
 - 🌱 I’m currently learning **Rust**
 
@@ -9,11 +9,7 @@
 
 - 🤝 I’m looking for help with **GUI**
 
-- 💬 Ask me about **Python⚡**
-
-- 📫 How to reach me **ttvvertix13@gmail.com/!Vertixx#4947**
-
-- ⚡ Fun fact **Im 14**
+- ⚡ Fun fact **Im 15**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
